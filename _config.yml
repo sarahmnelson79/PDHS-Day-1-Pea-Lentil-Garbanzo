@@ -5,27 +5,27 @@
 # Site settings
 
 # title of site appears in banner
-title: GH-Pages Collection
+title: PDHS Day 1 Pea Lentil Garbanzo
 # tagline appears in banner
-tagline: a theme for building simple digital exhibits
+tagline: Practice with metadata
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A more complete description that will appear in meta tags and on the index page as a teaser."
+description: "What are objects, what are metadata."
 # keywords appear in meta tags
 keywords: "university of idaho, digital collections, digital humanities"
 # creator of the digital collection, to appear in meta tags
-author: evanwill
+author: sarahmnelson79
 # creator contact email for meta tags
-email: ewilliamson@uidaho.edu
+email: snelson@uidaho.edu
 # collection project date, when did you publish this
 collection-date: "2018"
 
 # url is your gh-pages base, username.github.io
-url: https://uidaholib.github.io
+url: https://sarahmnelson79.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /pages-collection-template
+baseurl: /PDHS-Day-1-Pea-Lentil-Garbanzo
 # repository is the github repository's full url
-repository: https://github.com/uidaholib/pages-collection-template
+repository: https://github.com/sarahmnelson79/PDHS-Day-1-Pea-Lentil-Garbanzo
 
 # google services [optional!]
 # leave these blank or comment out to NOT include google code
