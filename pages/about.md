@@ -4,9 +4,9 @@ layout: page
 permalink: /about/
 ---
 
-# About {{ site.title }}
+# About PDHS Day 1 Pea Lentil Garbanzo
 
-Digital collection site built via metadata and Jekyll.
+This contains objects scanned during Day 1 of the Palouse Digital Humanities Symposium 2018
 
 ### Technical
 
